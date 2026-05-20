@@ -1,67 +1,67 @@
-# Python Learning Journey
+# Python Learning Journey 🚀
 
-This repository contains my notes, practice files, and small programs as I learn Python.  
-The purpose is to stay consistent and keep my progress organized in one place.
+This repository serves as my professional data engineering workspace, tracking core logic optimization, algorithmic scripting, and data architecture foundations as part of my placement preparation.
 
-I am keeping all older code as it is.  
-The goal is to show how my Python skills improve over time, not to make everything perfect.
+The purpose is to maintain rigorous code quality and host structured, production-ready modules in a centralized ecosystem.
 
 ---
 
-## Folder Structure
+## 📁 Repository Workspace Structure
 
-```
+```text
 python_learning_journey/
-    week01/
-        day01/
-        day02/
-    week02/
-    projects/
-```
+    ├── core_logic/       # Algorithmic scripts, optimization exercises, and syntax mastery
+    ├── data_analytics/   # Advanced data manipulation modules (Pandas & NumPy workflows)
+    ├── database_sync/    # SQL integration scripts, CTE execution logs, and database pipelines
+    └── analytics_core/   # End-to-end analytical automation scripts and mock production datasets
 
-Each folder includes:
-- notes  
-- daily exercises  
-- small programs  
-- any practice tasks for that day  
+```
+Each module incorporates:
+
+* Clean, documented python scripts (.py files)
+
+* Complex data transformation logic
+
+* Structured, reusable functions and class blocks
+
+* Performance checkpoints
 
 ---
+⚙️ How to Execute Locally
+Clone the master repository branch:
 
-## How to Run Files
-
-1. Clone the repository:
 ```
-git clone https://github.com/SupriyaJaiswal7/python_learning_journey.git
-```
-
-2. Move into any folder:
-```
-cd python_learning_journey/week01/day01
+git clone [https://github.com/SupriyaJaiswal7/python_learning_journey.git](https://github.com/SupriyaJaiswal7/python_learning_journey.git)
 ```
 
-3. Run a Python file:
+Navigate to the targeted domain directory:
+
+```
+cd python_learning_journey/data_analytics
+```
+
+Execute the Python script runtime:
 ```
 python filename.py
 ```
 
 ---
+🎯 Primary Engineering Objectives
 
-## Purpose of This Repository
+- Document structural logic growth and code refinement over time
 
-- To track my Python learning  
-- To practice basic to intermediate concepts  
-- To improve consistency  
-- To maintain a record of all exercises and small projects  
-- To see how my coding style changes over time  
+- Implement and master advanced Python paradigms for Data Analytics
 
-This repository will continue to grow as I learn more.
+- Establish an immutable professional development routine
+
+- Maintain clean, readable, and production-ready script architecture
 
 ---
 
-## Upcoming Additions
+📈 Strategic Sprints
 
-- cleaner notes  
-- updated versions of older scripts  
-- more mini projects  
-- better folder organization as I progress  
+[x] Phase 1: Environment Alignment & Profile Optimization
 
+[ ] Phase 2: Advanced Data Engineering Frameworks (Pandas & NumPy Core)
+
+[ ] Phase 3: Analytical Dashboards & SQL Mechanics
